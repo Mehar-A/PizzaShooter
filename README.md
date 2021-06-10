@@ -15,3 +15,7 @@
  8. Select the Scenes Folder and double click Prototype2 
  9. Run the game in the Game Scene 
  10. Play the game 
+
+
+Thanks,
+Mehar
